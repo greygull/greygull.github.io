@@ -1,4 +1,4 @@
 greygull.github.io
 ==================
 
-greygull.net
+This is the website for greygull.nz
